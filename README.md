@@ -1,2 +1,2 @@
 # Hi there👋
-[![](https://skillicons.dev/icons?i=py,go,postgres,docker,git,redis)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,go,postgres,redis,docker,git)](https://skillicons.dev)
